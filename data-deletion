@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Deletion Policy – RojCredit</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #fafafa; color: #333; line-height: 1.6; }
+    h1 { color: #1a73e8; }
+    h2 { margin-top: 30px; color: #333; }
+    a { color: #1a73e8; text-decoration: none; }
+    ul { margin-left: 20px; }
+  </style>
+</head>
+<body>
+
+  <h1>Data Deletion Policy for RojCredit</h1>
+  <p><strong>Effective Date:</strong> November 2025</p>
+
+  <p>At <strong>RojCredit</strong>, we value your privacy and provide you full control over your personal and business data.  
+  This Data Deletion Policy explains how you can request deletion of your account and associated data stored in our systems.</p>
+
+  <h2>1. Data We Store</h2>
+  <p>When you use RojCredit, we securely store limited personal and business information such as:</p>
+  <ul>
+    <li>Your mobile number (for login and authentication)</li>
+    <li>Business profile details (business name, type, address, GST, etc.)</li>
+    <li>Customer and transaction data that you choose to record in the app</li>
+  </ul>
+
+  <p>All data is stored in a secure cloud database (Google Firebase). We do not sell or share your data with third parties for marketing purposes.</p>
+
+  <h2>2. Requesting Data Deletion</h2>
+  <p>You may delete your RojCredit account and all related information at any time.</p>
+
+  <h3>To request account deletion:</h3>
+  <ul>
+    <li>Send an email to <a href="mailto:rojcredit.help@gmail.com">rojcredit.help@gmail.com</a> with the subject line <strong>“Delete My Account”</strong>.</li>
+    <li>Include your registered mobile number and, if possible, screenshots or details to help us identify your account.</li>
+    <li>We will verify your identity using an OTP sent to your registered number or email before processing the request.</li>
+  </ul>
+
+  <h2>3. Data Removal Process</h2>
+  <p>Once verified, we will permanently delete your data from our systems within <strong>7–14 business days</strong>.  
+  This includes:</p>
+  <ul>
+    <li>Your business profile information</li>
+    <li>All customer records and transactions</li>
+    <li>Any associated files or uploaded media</li>
+  </ul>
+
+  <p>After deletion, the data cannot be recovered.  
+  We may retain limited information only if required by applicable laws (for example, for fraud prevention or accounting compliance).</p>
+
+  <h2>4. Contact Information</h2>
+  <p>For any data deletion or privacy-related requests, contact us at:</p>
+  <p>
+    <strong>Email:</strong> <a href="mailto:rojcredit.help@gmail.com">rojcredit.help@gmail.com</a><br>
+    <strong>App Name:</strong> RojCredit<br>
+    <strong>Developer:</strong> Ritesh Kumar
+  </p>
+
+  <h2>5. Policy Updates</h2>
+  <p>We may update this policy periodically to reflect new data regulations or app features.  
+  Any updates will be posted on this page with the revised effective date. Continued use of the app after changes means you accept the updated policy.</p>
+
+</body>
+</html>
